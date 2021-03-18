@@ -8,5 +8,5 @@ Step 1 - Climate Analysis and Exploration
 
 Step 1 - Climate Analysis and Exploration
   - app.py - python notebook
-   - Contains queries connected to the flask API
+   - Contains queries and flask api connections
 
